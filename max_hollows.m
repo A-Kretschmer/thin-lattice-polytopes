@@ -1,3 +1,4 @@
+// Magma code
 
 // Returns an integer sequence as a string
 function IntegerSequenceToString(s)
