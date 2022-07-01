@@ -1,5 +1,6 @@
 # Use at own risk!
 
+# Not strictly needed for the functions below but very useful when reading vertex lists from files:
 import json
 
 # Initialize global polynomial ring with variable t
