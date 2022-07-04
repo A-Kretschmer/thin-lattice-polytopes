@@ -201,7 +201,7 @@ def isJoin(P):
                 return True
     return False
 
-# The cayleyJoinFactors function below needs the input to define a *full-dimensional* polyhedron!
+# The cayleyJoinFactors function below needs the input to define a *full-dimensional* polytope!
 # P is assumed to be given as list of points whose convex hull is the polytope.
 # The function returns the list of all pairs (as lists of length 2) of faces of P such that P is 
 # the Cayley join of the two faces. Of course, the output list can be empty. The dimension of the first factor 
